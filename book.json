@@ -137,7 +137,7 @@
     {
         "filename": "/44_20220923.pdf",
         "url": "https://archive.org/download/44_20220923/44-%20%D9%84%D9%88%D8%A8%D9%88%D9%84%DB%8C%20%D9%84%D8%A7%20-%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86%20%D8%B3%DB%8C%D8%B1%DB%8C%D8%B2%20-%20%D8%A7%D8%A8%D9%86%D9%90%20%D8%B5%D9%81%DB%8C.pdf",
-        "bookname": "",
+        "bookname": "lobolila",
         "booktitle": "لوبولی لا ",
         "bookimage": "https://archive.org/services/img/44_20220923",
         "bookauthor": "ابنِ صفی",
@@ -810,6 +810,276 @@
         "downloadsize": "3.2"
     },
     {
+        "filename": "/030-dehshat-gard-and-mutharrak-maut.pdf",
+        "url": "https://archive.org/download/030-dehshat-gard-and-mutharrak-maut/030-dehshat-gard-and-mutharrak-maut.pdf",
+        "bookname": "Dehshat Gard And Mutharrak Maut",
+        "booktitle": "دہشت گرد اور متحرک موت",
+        "bookimage": "https://archive.org/services/img/030-dehshat-gard-and-mutharrak-maut",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.6"
+    },
+    {
+        "filename": "/029-bloody-syndicate.pdf",
+        "url": "https://archive.org/download/029-bloody-syndicate/029-bloody-syndicate.pdf",
+        "bookname": "Bloody Syndicate",
+        "booktitle": "بلڈی سنڈیکیٹ",
+        "bookimage": "https://archive.org/services/img/029-bloody-syndicate",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2.4"
+    },
+    {
+        "filename": "/028-rangeen-mout-and-danger-gang.pdf",
+        "url": "https://archive.org/download/028-rangeen-mout-and-danger-gang/028-rangeen-mout-and-danger-gang.pdf",
+        "bookname": "Rangeen Mout And Danger Gang",
+        "booktitle": "رنگین موت",
+        "bookimage": "https://archive.org/services/img/028-rangeen-mout-and-danger-gang",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "9"
+    },
+    {
+        "filename": "/027-dashing-three.pdf",
+        "url": "https://archive.org/download/027-dashing-three/027-dashing-three.pdf",
+        "bookname": "Dashing Three",
+        "booktitle": "ڈیشنگ تھری",
+        "bookimage": "https://archive.org/services/img/027-dashing-three",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "1.7"
+    },
+    {
+        "filename": "/026-black-feather.pdf",
+        "url": "https://archive.org/download/026-black-feather/026-black-feather.pdf",
+        "bookname": "Black Feather",
+        "booktitle": "بلیک فیدر",
+        "bookimage": "https://archive.org/services/img/026-black-feather",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2"
+    },
+    {
+        "filename": "/025-zinda-saye.pdf",
+        "url": "https://archive.org/download/025-zinda-saye/025-zinda-saye.pdf",
+        "bookname": "Zinda Saye",
+        "booktitle": "زندہ سائے",
+        "bookimage": "https://archive.org/services/img/025-zinda-saye",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "1.7"
+    },
+    {
+        "filename": "/024-imran-ki-maut.pdf",
+        "url": "https://archive.org/download/024-imran-ki-maut/024-imran-ki-maut.pdf",
+        "bookname": "Imran Ki Maut",
+        "booktitle": "عمران کی موت",
+        "bookimage": "https://archive.org/services/img/024-imran-ki-maut",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2.6"
+    },
+    {
+        "filename": "/023-weather-boss.pdf",
+        "url": "https://archive.org/download/023-weather-boss/023-weather-boss.pdf",
+        "bookname": "Weather Boss",
+        "booktitle": "ویدر باس",
+        "bookimage": "https://archive.org/services/img/023-weather-boss",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.1"
+    },
+    {
+        "filename": "/022-na-qabile-e-taskheer-mujrim-and-mout-ka-raqs.pdf",
+        "url": "https://archive.org/download/022-na-qabile-e-taskheer-mujrim-and-mout-ka-raqs/022-na-qabile-e-taskheer-mujrim-and-mout-ka-raqs.pdf",
+        "bookname": "Na Qabile E Taskheer Mujrim And Mout Ka Raqs",
+        "booktitle": "ناقابلِ تسخیر مجرم",
+        "bookimage": "https://archive.org/services/img/022-na-qabile-e-taskheer-mujrim-and-mout-ka-raqs",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "6.3"
+    },
+    {
+        "filename": "/021-dus-crore-mein-do-shetan.pdf",
+        "url": "https://archive.org/download/021-dus-crore-mein-do-shetan/021-dus-crore-mein-do-shetan.pdf",
+        "bookname": "Dus Crore Mein Do Shetan",
+        "booktitle": "دس کروڑ میں دو شیطان",
+        "bookimage": "https://archive.org/services/img/021-dus-crore-mein-do-shetan",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "22.5"
+    },
+    {
+        "filename": "/020-hara-kari.pdf",
+        "url": "https://archive.org/download/020-hara-kari/020-hara-kari.pdf",
+        "bookname": "Hara Kari",
+        "booktitle": "ہارا کاری",
+        "bookimage": "https://archive.org/services/img/020-hara-kari",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "9.3"
+    },
+    {
+        "filename": "/019-aika.ban.pdf",
+        "url": "https://archive.org/download/019-aika.ban/019-aika.ban.pdf",
+        "bookname": "Aika ban",
+        "booktitle": "ایکا بان",
+        "bookimage": "https://archive.org/services/img/019-aika.ban",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2.3"
+    },
+    {
+        "filename": "/018-rascals-king.pdf",
+        "url": "https://archive.org/download/018-rascals-king/018-rascals-king.pdf",
+        "bookname": "Rascals King",
+        "booktitle": "راسکلز کنگ",
+        "bookimage": "https://archive.org/services/img/018-rascals-king",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.2"
+    },
+    {
+        "filename": "/017-silver-girl.pdf",
+        "url": "https://archive.org/download/017-silver-girl/017-silver-girl.pdf",
+        "bookname": "Silver Girl",
+        "booktitle": "سلور گرل",
+        "bookimage": "https://archive.org/services/img/017-silver-girl",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "4.5"
+    },
+    {
+        "filename": "/016-madam-basashi.pdf",
+        "url": "https://archive.org/download/016-madam-basashi/016-madam-basashi.pdf",
+        "bookname": "Madam Basashi",
+        "booktitle": "باساشی",
+        "bookimage": "https://archive.org/services/img/016-madam-basashi",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "4.5"
+    },
+    {
+        "filename": "/015-dog-rays.pdf",
+        "url": "https://archive.org/download/015-dog-rays/015-dog-rays.pdf",
+        "bookname": "Dog Rays",
+        "booktitle": "ڈاگ ریز",
+        "bookimage": "https://archive.org/services/img/015-dog-rays",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "4.2"
+    },
+    {
+        "filename": "/014-black-prince.pdf",
+        "url": "https://archive.org/download/014-black-prince/014-black-prince.pdf",
+        "bookname": "Black Prince",
+        "booktitle": "بلیک پرنس",
+        "bookimage": "https://archive.org/services/img/014-black-prince",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2.3"
+    },
+    {
+        "filename": "/013-operation-desert-one.pdf",
+        "url": "https://archive.org/download/013-operation-desert-one/013-operation-desert-one.pdf",
+        "bookname": "Operation Desert One",
+        "booktitle": "آپریشن ڈیزرٹ ون",
+        "bookimage": "https://archive.org/services/img/013-operation-desert-one",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3"
+    },
+    {
+        "filename": "/012-ladies-secret-service.pdf",
+        "url": "https://archive.org/download/012-ladies-secret-service/012-ladies-secret-service.pdf",
+        "bookname": "Ladies Secret Service",
+        "booktitle": "لیڈیز سیکرٹ سروس",
+        "bookimage": "https://archive.org/services/img/012-ladies-secret-service",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.2"
+    },
+    {
+        "filename": "/011-blue-film.pdf",
+        "url": "https://archive.org/download/011-blue-film/011-blue-film.pdf",
+        "bookname": "Blue Film",
+        "booktitle": "بلیو فلم",
+        "bookimage": "https://archive.org/services/img/011-blue-film",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "1.5"
+    },
+    {
+        "filename": "/010-ganja-bhikari.pdf",
+        "url": "https://archive.org/download/010-ganja-bhikari/010-ganja-bhikari.pdf",
+        "bookname": "Ganja Bhikari",
+        "booktitle": "گنجا بھکاری",
+        "bookimage": "https://archive.org/services/img/010-ganja-bhikari",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "2.7"
+    },
+    {
+        "filename": "/009-calender-killer.pdf",
+        "url": "https://archive.org/download/009-calender-killer/009-calender-killer.pdf",
+        "bookname": "Calender Killer",
+        "booktitle": "کیلنڈر کلر",
+        "bookimage": "https://archive.org/services/img/009-calender-killer",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "1.8"
+    },
+    {
+        "filename": "/008-khamosh-cheekhain.pdf",
+        "url": "https://archive.org/download/008-khamosh-cheekhain/008-khamosh-cheekhain.pdf",
+        "bookname": "Khamosh Cheekhain",
+        "booktitle": "خاموش چیخ",
+        "bookimage": "https://archive.org/services/img/008-khamosh-cheekhain",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "1.8"
+    },
+    {
+        "filename": "/007-bagop-death-mission.pdf",
+        "url": "https://archive.org/download/007-bagop-death-mission/007-bagop-death-mission.pdf",
+        "bookname": "Bagop Death Mission",
+        "booktitle": "باگوپ",
+        "bookimage": "https://archive.org/services/img/007-bagop-death-mission",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "6.6"
+    },
+    {
+        "filename": "/006-shalmaak-super%20operation-operation-final.pdf",
+        "url": "https://archive.org/download/006-shalmaak-super-operation-operation-final/006-shalmaak-super%20operation-operation-final.pdf",
+        "bookname": "Shalmaak Super Operation Operation Final",
+        "booktitle": "شلماک",
+        "bookimage": "https://archive.org/services/img/006-shalmaak-super%20operation-operation-final",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "4.2"
+    },
+    {
+        "filename": "/005-kaya-palat.pdf",
+        "url": "https://archive.org/download/005-kaya-palat/005-kaya-palat.pdf",
+        "bookname": "Kaya Palat",
+        "booktitle": "کایا پلٹ",
+        "bookimage": "https://archive.org/services/img/005-kaya-palat",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.7"
+    },
+    {
+        "filename": "/004-double-white.pdf",
+        "url": "https://archive.org/download/004-double-white/004-double-white.pdf",
+        "bookname": "Double White",
+        "booktitle": "ڈبل وائیٹ",
+        "bookimage": "https://archive.org/services/img/004-double-white",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.2"
+    },
+    {
+        "filename": "/003-shogipama.pdf",
+        "url": "https://archive.org/download/003-shogipama/003-shogipama.pdf",
+        "bookname": "Shogipama",
+        "booktitle": "شوگی پاما",
+        "bookimage": "https://archive.org/services/img/003-shogipama",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.3"
+    },
+    {
+        "filename": "/002-Sabolat%20Agar.pdf",
+        "url": "https://archive.org/download/002-sabolat-agar/002-Sabolat%20Agar.pdf",
+        "bookname": "Sabolat Agar",
+        "booktitle": "سابولیٹ آگر",
+        "bookimage": "https://archive.org/services/img/002-Sabolat%20Agar",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.2"
+    },
+    {
+        "filename": "/001-makazonga.pdf",
+        "url": "https://archive.org/download/001-makazonga/001-makazonga.pdf",
+        "bookname": "Makazonga",
+        "booktitle": "ماکازونگا",
+        "bookimage": "https://archive.org/services/img/001-makazonga",
+        "bookauthor": "مظہر کلیم (ایم اے)",
+        "downloadsize": "3.2"
+    },
+    {
         "filename": "/20221020_20221020_1601.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/Samoon - Part 1 to 3 - M.A. Rahat.pdf",
         "bookname": "Samoon",
@@ -819,291 +1089,363 @@
         "downloadsize": "27.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/اصلی وارث .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A7%D8%B5%D9%84%DB%8C %D9%88%D8%A7%D8%B1%D8%AB %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Asli Waris",
         "booktitle": "اصلی وارث ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/اصلی وارث .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "11.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/اژدھا - دوسرا حصّہ - .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A7%DA%98%D8%AF%DA%BE%D8%A7 - %D8%AF%D9%88%D8%B3%D8%B1%D8%A7 %D8%AD%D8%B5%D9%91%DB%81 - %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Ajdaha - Dosra Hissa -",
         "booktitle": "اژدھا - دوسرا حصّہ - ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/اژدھا - دوسرا حصّہ - .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "29.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/اکال ساگر .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A7%DA%A9%D8%A7%D9%84 %D8%B3%D8%A7%DA%AF%D8%B1 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Akal Sagar",
         "booktitle": "اکال ساگر ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/اکال ساگر .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "15.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/بازی .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A8%D8%A7%D8%B2%DB%8C %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Bazi",
         "booktitle": "بازی ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/بازی .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "17.4"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/بلیک ٹیمل .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A8%D9%84%DB%8C%DA%A9 %D9%B9%DB%8C%D9%85%D9%84 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Black Tample",
         "booktitle": "بلیک ٹیمپل ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/بلیک ٹیمل .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "8.9"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/بھونچال .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A8%DA%BE%D9%88%D9%86%DA%86%D8%A7%D9%84 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Bhoonchal",
         "booktitle": "بھونچال ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/بھونچال .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "9.1"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/بھید  .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%A8%DA%BE%DB%8C%D8%AF  %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Bhaid",
         "booktitle": "بھید ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/بھید  .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "29.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/تاریک وادی مکمل .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AA%D8%A7%D8%B1%DB%8C%DA%A9 %D9%88%D8%A7%D8%AF%DB%8C %D9%85%DA%A9%D9%85%D9%84 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Tareek Waadi Mukammal",
         "booktitle": "تاریک وادی مکمل ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/تاریک وادی مکمل .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "7.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/ترسول کنڈ کی داسی ()_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AA%D8%B1%D8%B3%D9%88%D9%84 %DA%A9%D9%86%DA%88 %DA%A9%DB%8C %D8%AF%D8%A7%D8%B3%DB%8C %28%D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA%29.pdf",
         "bookname": "Tarsol Kund Ki Daasi",
         "booktitle": "ترسول کنڈ کی داسی ()",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/ترسول کنڈ کی داسی ()_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "7.7"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/جادو  صاف مکمل_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AC%D8%A7%D8%AF%D9%88 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA %D8%B5%D8%A7%D9%81 %D9%85%DA%A9%D9%85%D9%84.pdf",
         "bookname": "Jadoo",
         "booktitle": "جادو",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/جادو  صاف مکمل_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "8.8"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/جزبات .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AC%D8%B2%D8%A8%D8%A7%D8%AA %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Jazbaat",
         "booktitle": "جزبات ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/جزبات .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "8.7"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/جلاد .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AC%D9%84%D8%A7%D8%AF %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Jallad",
         "booktitle": "جلاد ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/جلاد .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "4"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/جلن .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AC%D9%84%D9%86 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Jalan",
         "booktitle": "جلن ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/جلن .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "4.9"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/جھرنے ایم۔اے راحت_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AC%DA%BE%D8%B1%D9%86%DB%92 %D8%A7%DB%8C%D9%85%DB%94%D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Jharney",
         "booktitle": "جھرنے",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/جھرنے ایم۔اے راحت_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "27.2"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/حصار  _.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AD%D8%B5%D8%A7%D8%B1 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
         "bookname": "Hisaar",
         "booktitle": "حصار  ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/حصار  _.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "3.8"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/خود پرست .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AE%D9%88%D8%AF %D9%BE%D8%B1%D8%B3%D8%AA %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Khud Parast",
         "booktitle": "خود پرست ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/خود پرست .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "9.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/خوف  ایم۔اے راحت_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AE%D9%88%D9%81  %D8%A7%DB%8C%D9%85%DB%94%D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Khauf",
         "booktitle": "خوف",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/خوف  ایم۔اے راحت_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "11.8"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/خون آشام .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AE%D9%88%D9%86 %D8%A2%D8%B4%D8%A7%D9%85 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Khoon Aasham",
         "booktitle": "خون آشام ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/خون آشام .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "16.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/خونی کہاوت .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AE%D9%88%D9%86%DB%8C %DA%A9%DB%81%D8%A7%D9%88%D8%AA %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Khooni Kahawat",
         "booktitle": "خونی کہاوت ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/خونی کہاوت .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "31.9"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/دلال .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AF%D9%84%D8%A7%D9%84 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Dalaal",
         "booktitle": "دلال ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/دلال .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "9.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/دہشت_ناک_کہانیاں_ایم_اے_راحت_کلیکشن_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AF%DB%81%D8%B4%D8%AA_%D9%86%D8%A7%DA%A9_%DA%A9%DB%81%D8%A7%D9%86%DB%8C%D8%A7%DA%BA_%D8%A7%DB%8C%D9%85_%D8%A7%DB%92_%D8%B1%D8%A7%D8%AD%D8%AA_%DA%A9%D9%84%DB%8C%DA%A9%D8%B4%D9%86.pdf",
         "bookname": "Dehshat_Naak_Kahaniyan",
         "booktitle": "دہشت_ناک_کہانیاں",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/دہشت_ناک_کہانیاں_ایم_اے_راحت_کلیکشن_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "15.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/دیوالی .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%AF%DB%8C%D9%88%D8%A7%D9%84%DB%8C %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Diwali",
         "booktitle": "دیوالی ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/دیوالی .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "14.1"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/رام_پور_کا_لکشمن۔از_قلم۔ایم_اے_راحت_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B1%D8%A7%D9%85_%D9%BE%D9%88%D8%B1_%DA%A9%D8%A7_%D9%84%DA%A9%D8%B4%D9%85%D9%86%DB%94%D8%A7%D8%B2_%D9%82%D9%84%D9%85%DB%94%D8%A7%DB%8C%D9%85_%D8%A7%DB%92_%D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Ram_Pur_Ka_Lakshman",
         "booktitle": "رام_پور_کا_لکشمن",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/رام_پور_کا_لکشمن۔از_قلم۔ایم_اے_راحت_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "5.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/سراب .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B3%D8%B1%D8%A7%D8%A8 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Sarab",
         "booktitle": "سراب ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/سراب .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "3.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/سفید دیوی .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B3%D9%81%DB%8C%D8%AF %D8%AF%DB%8C%D9%88%DB%8C %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Safaid Devi",
         "booktitle": "سفید دیوی ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/سفید دیوی .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "2.5"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/سنہری جونک .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B3%D9%86%DB%81%D8%B1%DB%8C %D8%AC%D9%88%D9%86%DA%A9 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Sunehri Jonk",
         "booktitle": "سنہری جونک ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/سنہری جونک .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "3.4"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/سولہواں_سال_جناتی_ناول_ایم_اے_راحت_.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B3%D9%88%D9%84%DB%81%D9%88%D8%A7%DA%BA_%D8%B3%D8%A7%D9%84_%D8%AC%D9%86%D8%A7%D8%AA%DB%8C_%D9%86%D8%A7%D9%88%D9%84_%D8%A7%DB%8C%D9%85_%D8%A7%DB%92_%D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Solahwan_Saal_Janati",
         "booktitle": "سولہواں_سال_جناتی",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/سولہواں_سال_جناتی_ناول_ایم_اے_راحت_.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "2.4"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/شاہکار .pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B4%D8%A7%DB%81%DA%A9%D8%A7%D8%B1 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
         "bookname": "Shahkaar",
         "booktitle": "شاہکار ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/شاہکار .jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "5.1"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/صدیوں کا سحر از  _.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B5%D8%AF%DB%8C%D9%88%DA%BA %DA%A9%D8%A7 %D8%B3%D8%AD%D8%B1 %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
         "bookname": "Sadiyon Ka Sehar",
         "booktitle": "صدیوں کا سحر از  ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/صدیوں کا سحر از  _.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "8.1"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/صدیوں کا مسافر (مکمل) از  _.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B5%D8%AF%DB%8C%D9%88%DA%BA %DA%A9%D8%A7 %D9%85%D8%B3%D8%A7%D9%81%D8%B1 %28%D9%85%DA%A9%D9%85%D9%84%29 %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
         "bookname": "Sadiyon Ka Musafir",
         "booktitle": "صدیوں کا مسافر ",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/صدیوں کا مسافر (مکمل) از  _.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "28.6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/صدیوں کی بیٹی از  _.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B5%D8%AF%DB%8C%D9%88%DA%BA %DA%A9%DB%8C %D8%A8%DB%8C%D9%B9%DB%8C %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
         "bookname": "Sadiyon Ki Beti",
         "booktitle": "صدیوں کی بیٹی",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/صدیوں کی بیٹی از  _.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "6"
     },
     {
-        "filename": "/20221020_20221020_1601.pdf",
+        "filename": "/صدیوں کی پیاس از  _.pdf",
         "url": "https://archive.org/download/20221020_20221020_1601/%D8%B5%D8%AF%DB%8C%D9%88%DA%BA %DA%A9%DB%8C %D9%BE%DB%8C%D8%A7%D8%B3 %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
         "bookname": "Sadiyon Ki Piyas",
         "booktitle": "صدیوں کی پیاس",
-        "bookimage": "https://archive.org/services/img/20221020_20221020_1601",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/صدیوں کی پیاس از  _.jpg",
         "bookauthor": "ایم اے راحت",
         "downloadsize": "3.8"
+    },
+    {
+        "filename": "/طالوت (مکمل) از  _.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%D8%B7%D8%A7%D9%84%D9%88%D8%AA %28%D9%85%DA%A9%D9%85%D9%84%29 %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
+        "bookname": "Taloot (Mukammal)",
+        "booktitle": "طالوت (مکمل)",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/طالوت (مکمل) از  _.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "18.3"
+    },
+    {
+        "filename": "/مقدس نشان  کلیکشن_.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%D9%85%D9%82%D8%AF%D8%B3 %D9%86%D8%B4%D8%A7%D9%86 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA %DA%A9%D9%84%DB%8C%DA%A9%D8%B4%D9%86.pdf",
+        "bookname": "Muqaddas Nishaan Collection",
+        "booktitle": "مقدس نشان  کلیکشن",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/مقدس نشان  کلیکشن_.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "3.7"
+    },
+    {
+        "filename": "/ناگ دیوتا۔.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%D9%86%D8%A7%DA%AF %D8%AF%DB%8C%D9%88%D8%AA%D8%A7%DB%94%D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
+        "bookname": "Naag Dewta",
+        "booktitle": "ناگ دیوتا۔",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/ناگ دیوتا۔.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "4.9"
+    },
+    {
+        "filename": "/وحشی از  _.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%D9%88%D8%AD%D8%B4%DB%8C %D8%A7%D8%B2 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA .pdf",
+        "bookname": "Wahshi",
+        "booktitle": "وحشی",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/وحشی از  _.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "4"
+    },
+    {
+        "filename": "/پازیب۔از قلم۔.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%D9%BE%D8%A7%D8%B2%DB%8C%D8%A8%DB%94%D8%A7%D8%B2 %D9%82%D9%84%D9%85%DB%94%D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
+        "bookname": "Pazeb",
+        "booktitle": "پازیب۔",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/پازیب۔از قلم۔.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "9.6"
+    },
+    {
+        "filename": "/کالا جادو  صاف مکمل_.pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%DA%A9%D8%A7%D9%84%D8%A7 %D8%AC%D8%A7%D8%AF%D9%88 %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA %D8%B5%D8%A7%D9%81 %D9%85%DA%A9%D9%85%D9%84.pdf",
+        "bookname": "Kala Jadoo Mukammal",
+        "booktitle": "کالا جادو  مکمل",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/کالا جادو  صاف مکمل_.jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "44.4"
+    },
+    {
+        "filename": "/کالا جادو مکمل کتاب اصلی .pdf",
+        "url": "https://archive.org/download/20221020_20221020_1601/%DA%A9%D8%A7%D9%84%D8%A7 %D8%AC%D8%A7%D8%AF%D9%88 %D9%85%DA%A9%D9%85%D9%84 %DA%A9%D8%AA%D8%A7%D8%A8 %D8%A7%D8%B5%D9%84%DB%8C %D8%A7%DB%8C%D9%85 %D8%A7%DB%92 %D8%B1%D8%A7%D8%AD%D8%AA.pdf",
+        "bookname": "Kala Jadoo Mukammal",
+        "booktitle": "کالا جادو مکمل",
+        "bookimage": "https://ia904605.us.archive.org/21/items/20240610_20240610_1059/کالا جادو مکمل کتاب اصلی .jpg",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "20.4"
+    },
+    {
+        "filename": "/KalyGhaatWali.pdf",
+        "url": "https://archive.org/download/KalyGhaatWali/Kaly_Ghaat-Wali_Paksociety_com.pdf",
+        "bookname": "Kaley Ghaat Wali",
+        "booktitle": "کالے گھاٹ والی",
+        "bookimage": "https://archive.org/services/img/KalyGhaatWali",
+        "bookauthor": "ایم اے راحت",
+        "downloadsize": "11.8"
     }
 ]
